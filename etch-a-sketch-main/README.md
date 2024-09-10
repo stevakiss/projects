@@ -1,0 +1,2 @@
+
+a browser version of something between a sketchpad and an Etch-A-Sketch. Set up a “hover” effect so that the grid divs change color when your mouse passes over them, leaving a (pixelated) trail through the grid like a pen would. The user can erase their sketch and create a new one with new dimensions from 1 to 100
